@@ -13,6 +13,10 @@ print(begin + "!")
 var str1 = "On"
 var  str2 = " guard"
 var challenge = str1 + str2
+var response = str1 + str2
+if challenge == response {
+    print("The fight bins")
+}
 
 let exclamationMark: Character = "!"
 let snailEmoji: Character = "🐌"
