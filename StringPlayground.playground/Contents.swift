@@ -15,7 +15,7 @@ var  str2 = " guard"
 var challenge = str1 + str2
 var response = str1 + str2
 if challenge == response {
-    print("The fight bins")
+    print("The fight begins")
 }
 
 let exclamationMark: Character = "!"
